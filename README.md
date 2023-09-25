@@ -1,2 +1,2 @@
 # SistemaNotas
- Sistema de notas com array
+ Sistema de notas com array em linguagem C
